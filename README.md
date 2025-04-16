@@ -1,1 +1,1 @@
-Dating up UI using Next
+DATING APP FRONTEND NEXTJS
